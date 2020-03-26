@@ -1,0 +1,23 @@
+h1 {
+  color: darkred;
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+.linha {
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;
+  float: left;
+  padding: 0rem 4rem .5rem;
+}
+.App {
+  margin: auto;
+  max-width: 900px;
+}
+.footer {
+  color: white;
+  background-color: darkgrey;
+  font-size: .5rem;
+  font-family: 'Times New Roman', Times, serif;
+}
