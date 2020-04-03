@@ -1,7 +1,7 @@
 # Conversor Moeda / Currency Converter
 
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/t1g8qBU.png">
+  <img src="https://i.imgur.com/t1g8qBU.png">
 </p>
 
 Projeto desenvolvido para avaliação semestral na faculdade.
