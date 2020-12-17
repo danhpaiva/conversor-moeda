@@ -13,7 +13,7 @@ Projeto desenvolvido para avaliação semestral na faculdade.
 
 <h3> Descrição </h3>
 
-O objetivo do conversor de moeda é fazer a conversão direta do valor de uma moeda para outra.
+O objetivo do conversor de moeda é fazer a conversão direta do valor de uma moeda para outra.<br>
 A conversão acontece de: real para dólar, real para euro e vice-versa.
 
 Para isso implementei uma API free, que pega a cotação atual da moeda e faz a conversão, facilitando a vida do usuário.
