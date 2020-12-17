@@ -1,7 +1,7 @@
 <h1> Conversor Moeda </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/t1g8qBU.png">
+  <img src="https://i.imgur.com/t1g8qBU.png" width="500">
 </p>
 
 <h3> :scroll: Descrição </h3>
