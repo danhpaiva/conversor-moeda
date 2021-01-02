@@ -11,7 +11,7 @@ Projeto desenvolvido para avaliação semestral na faculdade.
 * Tecnologias utilizadas: HTML, CSS e JavaScript
 * React.Js utilizando uma toolchain integrada 'create-react-app'
 
-<h3> Descrição </h3>
+<h3> Objetivo </h3>
 
 O objetivo do conversor de moeda é fazer a conversão direta do valor de uma moeda para outra.<br>
 A conversão acontece de: real para dólar, real para euro e vice-versa.
