@@ -17,3 +17,15 @@ O objetivo do conversor de moeda é fazer a conversão direta do valor de uma mo
 A conversão acontece de: real para dólar, real para euro e vice-versa.
 
 Para isso implementei uma API free, que pega a cotação atual da moeda e faz a conversão, facilitando a vida do usuário.
+
+Para atualizar os pacotes, rode no terminal do PowerShell:
+
+~~~
+Set-ExecutionPolicy Unrestricted
+~~~
+
+Agora na pasta do projeto:
+
+~~~
+yarn upgrade-interactive --latest
+~~~
